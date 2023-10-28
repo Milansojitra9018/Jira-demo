@@ -1,0 +1,13 @@
+.inputfield{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    margin-left: 35%;
+  
+}
+
+.options{
+    width: 50%;
+    margin-left: 49%;
+}
+
